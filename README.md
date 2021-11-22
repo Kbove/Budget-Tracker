@@ -1,7 +1,7 @@
 # Budget-Tracker
     https://github.com/kbove/Budget-Tracker
     
-## Description
+### Description
     This is a personal finance tracker application where you can quickly and easily visualize your income
     
 ### Table of Contents
