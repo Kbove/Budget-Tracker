@@ -4,7 +4,7 @@
 ## Description
     This is a personal finance tracker application where you can quickly and easily visualize your income
     
-## Table of Contents
+### Table of Contents
     
 * [Installation](#Installation)
     
